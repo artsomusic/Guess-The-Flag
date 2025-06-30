@@ -1,6 +1,7 @@
 # Guess the Flag
 
 Este é um aplicativo desenvolvido em SwiftUI no qual o jogador deve identificar corretamente a bandeira de um país dentre três opções apresentadas. O objetivo é testar e melhorar o conhecimento sobre bandeiras de maneira rápida e visual.
+
 ![ezgif-138f2313f68268](https://github.com/user-attachments/assets/b03cf576-8570-4e7e-8189-1a1cf9f9b280)
 
 ## Funcionalidades
